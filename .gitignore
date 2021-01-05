@@ -354,3 +354,7 @@ MigrationBackup/
 
 # vs code work space
 web-pages.code-workspace
+
+
+#Folders
+/_template_project
