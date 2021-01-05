@@ -2,9 +2,9 @@
 
 Some Projects On HTML CSS and JS based
 
-### Link of the Project [Menu](https://mridul2820.github.io/CSS-Vanila-JS-Projects/)
+### Link of the Project [Menu](https://mridul2820.github.io/html-css-js-projects/)
 
 ### Individual Project Links
 
-◾ [Accordion](https://mridul2820.github.io/CSS-Vanila-JS-Projects/Vanila-JS/accordion/index.html)
+◾ [Expanding Cards](https://mridul2820.github.io/html-css-js-projects/projects/expanding-cards/index.html)
 <br/>
