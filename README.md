@@ -8,3 +8,5 @@ Some Projects On HTML CSS and JS based
 
 ◾ [Expanding Cards](https://mridul2820.github.io/html-css-js-projects/projects/expanding-cards/index.html)
 <br/>
+◾ [Progress Steps](https://mridul2820.github.io/html-css-js-projects/projects/progress-steps/index.html)
+<br/>
