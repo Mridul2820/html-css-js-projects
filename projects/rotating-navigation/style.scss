@@ -23,6 +23,11 @@ body {
 
     &.show-nav {
         transform: rotate(-20deg);
+
+
+        .circle {
+            transform: rotate(-70deg);
+        }
     }
 
     .circle-container {
@@ -67,8 +72,65 @@ body {
     }
 }
 
+.container.show-nav + nav li{
+    transform: translateX(0);
+    transition-delay: .3s;
+}
+
+nav {
+    position: fixed;
+    bottom: 40px;
+    left: 0;
+    z-index: 100;
+
+    ul {
+        list-style: none;
+        padding-left: 30px;
+
+        li {
+            text-transform: uppercase;
+            color: #fff;
+            margin: 40px 0;
+            transform: translateX(-100%);
+            transition: transform .4s ease-in;
+
+            & + li {
+                margin-left: 15px;
+                transform: translateX(-150%);
+
+                & + li {
+                    margin-left: 30px;
+                    transform: translateX(-200%);
+                }
+            }
+
+            i {
+                font-size: 20px;
+                margin-right: 10px;
+            }
+        }
+    }
+}
+
 .content {
+    max-width: 1000px;
+    margin: 50px auto;
+
+    h1 {
+        padding-bottom: 10px;
+    }
+
+    small {
+        color: #555;
+    }
+
     img {
         max-width: 100%;
+        padding-top: 10px;
+    }
+
+    p {
+        color: #333;
+        line-height: 1.5;
     }
 }
