@@ -10,3 +10,5 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [Progress Steps](https://mridul2820.github.io/html-css-js-projects/projects/progress-steps/index.html)
 <br/>
+◾ [Rotating Navigation](https://mridul2820.github.io/html-css-js-projects/projects/rotating-navigation/index.html)
+<br/>
