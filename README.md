@@ -10,6 +10,8 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [Hidden Search Widget](https://mridul2820.github.io/html-css-js-projects/projects/hidden-search-widget/index.html)
 <br/>
+◾ [Movie List App](https://mridul2820.github.io/html-css-js-projects/projects/movie-list-app/index.html)
+<br/>
 ◾ [Progress Steps](https://mridul2820.github.io/html-css-js-projects/projects/progress-steps/index.html)
 <br/>
 ◾ [Rotating Navigation](https://mridul2820.github.io/html-css-js-projects/projects/rotating-navigation/index.html)
