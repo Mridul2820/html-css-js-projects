@@ -46,6 +46,7 @@ header {
 main {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 
     .movie {
         width: 300px;
@@ -89,6 +90,42 @@ main {
 
             h3 {
                 margin-top: 0;
+            }
+        }
+
+        .release_date{
+            display: flex;
+            justify-content: flex-end;
+            padding: 0 1rem 1rem;
+            color: #fff;
+
+            span {
+                padding-left: 5px;
+                font-weight: bold;
+            }
+        }
+
+        .genre {
+            display: flex;
+            padding: 0 1rem 1rem;
+            color: #fff;
+
+            h4 {
+                margin-right: 10px;
+            }
+
+            ul {
+                list-style: none;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 8px;
+
+                li {
+                    background: var(--primary-color);
+                    padding: 4px 10px;
+                    border-radius: 50px;
+                    text-align: center;
+                }
             }
         }
 

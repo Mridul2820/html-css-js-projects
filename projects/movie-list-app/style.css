@@ -65,6 +65,9 @@ main {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 main .movie {
@@ -118,6 +121,50 @@ main .movie .movie-info span.red {
 
 main .movie .movie-info h3 {
   margin-top: 0;
+}
+
+main .movie .release_date {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  padding: 0 1rem 1rem;
+  color: #fff;
+}
+
+main .movie .release_date span {
+  padding-left: 5px;
+  font-weight: bold;
+}
+
+main .movie .genre {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 1rem 1rem;
+  color: #fff;
+}
+
+main .movie .genre h4 {
+  margin-right: 10px;
+}
+
+main .movie .genre ul {
+  list-style: none;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+main .movie .genre ul li {
+  background: var(--primary-color);
+  padding: 4px 10px;
+  border-radius: 50px;
+  text-align: center;
 }
 
 main .movie .overview {
