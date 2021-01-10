@@ -16,3 +16,5 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [Rotating Navigation](https://mridul2820.github.io/html-css-js-projects/projects/rotating-navigation/index.html)
 <br/>
+◾ [Scroll Animation](https://mridul2820.github.io/html-css-js-projects/projects/scroll-animation/index.html)
+<br/>
