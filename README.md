@@ -6,6 +6,8 @@ Some Projects On HTML CSS and JS based
 
 ### Individual Project Links
 
+◾ [Background Slider](https://mridul2820.github.io/html-css-js-projects/projects/background-slider/index.html)
+<br/>
 ◾ [Expanding Cards](https://mridul2820.github.io/html-css-js-projects/projects/expanding-cards/index.html)
 <br/>
 ◾ [Hidden Search Widget](https://mridul2820.github.io/html-css-js-projects/projects/hidden-search-widget/index.html)
