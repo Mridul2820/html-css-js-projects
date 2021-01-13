@@ -20,3 +20,5 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [Scroll Animation](https://mridul2820.github.io/html-css-js-projects/projects/scroll-animation/index.html)
 <br/>
+◾ [Toast Notification](https://mridul2820.github.io/html-css-js-projects/projects/toast-notification/index.html)
+<br/>
