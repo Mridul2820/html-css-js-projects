@@ -16,6 +16,8 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [Progress Steps](https://mridul2820.github.io/html-css-js-projects/projects/progress-steps/index.html)
 <br/>
+◾ [Random Image Feed](https://mridul2820.github.io/html-css-js-projects/projects/random-image-feed/index.html)
+<br/>
 ◾ [Rotating Navigation](https://mridul2820.github.io/html-css-js-projects/projects/rotating-navigation/index.html)
 <br/>
 ◾ [Scroll Animation](https://mridul2820.github.io/html-css-js-projects/projects/scroll-animation/index.html)
