@@ -24,3 +24,5 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [Toast Notification](https://mridul2820.github.io/html-css-js-projects/projects/toast-notification/index.html)
 <br/>
+◾ [Verify Account UI](https://mridul2820.github.io/html-css-js-projects/projects/verify-account-UI/index.html)
+<br/>
