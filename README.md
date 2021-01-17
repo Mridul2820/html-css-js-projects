@@ -10,6 +10,8 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [Expanding Cards](https://mridul2820.github.io/html-css-js-projects/projects/expanding-cards/index.html)
 <br/>
+◾ [FAQ Collapse](https://mridul2820.github.io/html-css-js-projects/projects/faq-collapse/index.html)
+<br/>
 ◾ [Hidden Search Widget](https://mridul2820.github.io/html-css-js-projects/projects/hidden-search-widget/index.html)
 <br/>
 ◾ [Movie List App](https://mridul2820.github.io/html-css-js-projects/projects/movie-list-app/index.html)

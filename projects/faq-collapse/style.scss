@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    margin: 50px 0 10px;
+    text-align: center;
+}
+
+.source {
+    text-align: center;
+    margin: 0 0 40px;
+}
+
+
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+
+    .faq {
+        background-color: transparent;
+        border: 1px solid #9fa4a8;
+        border-radius: 10px;
+        margin: 20px 0;
+        padding: 30px;
+        position: relative;
+        overflow: hidden;
+        transition: .3s ease;
+
+        &.active {
+            background-color: #fff;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, .1), 0 3px 6px rgba(0, 0, 0, .1);
+
+            &::before,
+            &::after {
+                content: '\f075';
+                font-family: 'Font Awesome 5 Free';
+                color: #2ecc71;
+                font-size: 7rem;
+                position: absolute;
+                opacity: .2;
+                top: 20px;
+                left: 20px;
+                z-index: 0;
+            }
+
+            &::before {
+                color: #3498db;
+                top: -10px;
+                left: -30px;
+                transform: rotateY(180deg);
+            }
+
+            .faq-text {
+                display: block;
+            }
+
+            .faq-toggle {
+                background-color: #9fa4a8;
+
+                .fa-times {
+                    display: block;
+                }
+
+                .fa-chevron-down {
+                    display: none;
+                }
+            }
+        }
+
+        .faq-title {
+            margin: 0 35px 0 0;
+        }
+
+        .faq-text {
+            display: none;
+            margin: 30px 0 0;
+        }
+
+        .faq-toggle {
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            font-size: 16px;
+            padding: 0;
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            height: 30px;
+            width: 30px;
+
+            &:focus {
+                outline: none;
+            }
+
+            .fa-times {
+                display: none;
+                color: #fff;
+            }
+        }
+    }
+}
