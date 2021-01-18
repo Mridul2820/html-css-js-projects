@@ -8,6 +8,8 @@ Some Projects On HTML CSS and JS based
 
 ◾ [Background Slider](https://mridul2820.github.io/html-css-js-projects/projects/background-slider/index.html)
 <br/>
+◾ [Drag N Drop](https://mridul2820.github.io/html-css-js-projects/projects/drag-n-drop/index.html)
+<br/>
 ◾ [Expanding Cards](https://mridul2820.github.io/html-css-js-projects/projects/expanding-cards/index.html)
 <br/>
 ◾ [FAQ Collapse](https://mridul2820.github.io/html-css-js-projects/projects/faq-collapse/index.html)
