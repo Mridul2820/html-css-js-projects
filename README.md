@@ -6,6 +6,8 @@ Some Projects On HTML CSS and JS based
 
 ### Individual Project Links
 
+◾ [Auto Text Effect](https://mridul2820.github.io/html-css-js-projects/projects/auto-text-effect/index.html)
+<br/>
 ◾ [Background Slider](https://mridul2820.github.io/html-css-js-projects/projects/background-slider/index.html)
 <br/>
 ◾ [Drag N Drop](https://mridul2820.github.io/html-css-js-projects/projects/drag-n-drop/index.html)
