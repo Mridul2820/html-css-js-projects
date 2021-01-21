@@ -20,6 +20,8 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [Movie List App](https://mridul2820.github.io/html-css-js-projects/projects/movie-list-app/index.html)
 <br/>
+◾ [Password Strength Background](https://mridul2820.github.io/html-css-js-projects/projects/password-strength-background/index.html)
+<br/>
 ◾ [Progress Steps](https://mridul2820.github.io/html-css-js-projects/projects/progress-steps/index.html)
 <br/>
 ◾ [Random Image Feed](https://mridul2820.github.io/html-css-js-projects/projects/random-image-feed/index.html)
