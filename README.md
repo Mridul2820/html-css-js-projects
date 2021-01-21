@@ -16,6 +16,7 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [FAQ Collapse](https://mridul2820.github.io/html-css-js-projects/projects/faq-collapse/index.html)
 <br/>
+
 ◾ [Hidden Search Widget](https://mridul2820.github.io/html-css-js-projects/projects/hidden-search-widget/index.html)
 <br/>
 ◾ [Movie List App](https://mridul2820.github.io/html-css-js-projects/projects/movie-list-app/index.html)
@@ -26,6 +27,7 @@ Some Projects On HTML CSS and JS based
 <br/>
 ◾ [Random Image Feed](https://mridul2820.github.io/html-css-js-projects/projects/random-image-feed/index.html)
 <br/>
+
 ◾ [Rotating Navigation](https://mridul2820.github.io/html-css-js-projects/projects/rotating-navigation/index.html)
 <br/>
 ◾ [Scroll Animation](https://mridul2820.github.io/html-css-js-projects/projects/scroll-animation/index.html)
